@@ -1,0 +1,10 @@
+{
+  "name": "ios-demo",
+  "version": "0.1.0",
+  "description": "first ios test demo",
+  "dependencies": {
+    "mocha": "*",
+    "macaca-wd": "*"
+  },
+  "author": "wang"
+}
